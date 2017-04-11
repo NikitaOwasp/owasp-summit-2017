@@ -7,7 +7,7 @@ expenses: owasp
 time: ARU
 job-title: ....
 image: https://pbs.twimg.com/profile_images/589462457015476224/-f9sW6zr_400x400.jpg
-linkedin:
+linkedin: adrian-winckles-2582ab3
 twitter: botflowking
 facebook:
 ---
@@ -29,5 +29,3 @@ What I would also like to propose is two ideas for Workshops/Themes
 * [OWASP Cambridge Chapter Leader](https://www.owasp.org/index.php/Cambridge)
 * OWASP European Board Member
 * [OWASP AppSec Europe 2014 Chair](https://2014.appsec.eu)
-* [LinkedIn](https://www.linkedin.com/in/adrian-winckles-2582ab3)
-* [Twitter](twitter.com/botflowking)
